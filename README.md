@@ -4,7 +4,7 @@
 ###### 通道参数：用户名:密码
 
 ##### 秒滴
-###### 短信查询地址：
+###### 短信查询地址：http://www.miaodiyun.com/
 ###### 通道代码：MiaoDiAisle
 ###### 通道参数：ACCOUNT_SID:AUTH_TOKEN
 
