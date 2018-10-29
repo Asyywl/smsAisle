@@ -33,7 +33,7 @@
 ###### 通道代码：YuLiAisle
 ###### 通道参数：用户id:用户名:密码
 
-##### sms.aspx
+##### sms.aspx (迈远)
 ###### 短信查询地址：http://ip地址:端口号/Index.aspx
 ###### 通道代码：UIDBaseAisle
 ###### 通道参数：ip地址:端口号:用户id:用户名:密码
