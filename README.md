@@ -62,5 +62,10 @@
 ###### 短信查询地址：http://api.duanxin123.cn/asmx/smsservice.aspx
 ###### 通道代码：YunTongXunConfigure
 ###### 通道参数：用户名:密码:前缀
+  
+##### 创蓝http --可配置
+###### 短信查询地址：http://smssh1.253.com/msg/send/json
+###### 通道代码：ChuangLanAisleS
+###### 通道参数：账号:密码
 
 ### 注：通道参数为平台提供的对接参数，格式不同，依据平台为准，通道参数均由英文冒号拼接！
